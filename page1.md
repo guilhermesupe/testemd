@@ -1,3 +1,6 @@
+---
+theme: jekyll-theme-cayman
+---
 ## Welcome to Page 1
 You can use the [editor on GitHub](https://github.com/guilhermesupe/testemd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

@@ -8,5 +8,7 @@ Considerando o atual cenário de pandemia de Covid-19 (Corona Virus Disease 2019
 ## Número de mortes por Covid-19 por município
 ![png](figures_website/map_deaths-01.png)
 
+<script src="https://embed.github.com/view/geojson/grcolli/COVID-19/master/map.geojson"?height=500&width=700></script\>
+
 ## Diferença residual entre valores esperados (modelo) e valores observados
 ![png](figures_website/Residuals_RdBu_centered_03-01.png)

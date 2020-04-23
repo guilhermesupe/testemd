@@ -5,9 +5,10 @@ Considerando o atual cenário de pandemia de Covid-19 (Corona Virus Disease 2019
 ## Casos de Covid-19 nos municípios brasileiros
 ![png](figures_website/map_confirmed_03-01.png)
 
-## Número de mortes por Covid-19 por município
-
-## Diferença residual entre valores esperados (modelo) e valores observados
 
 
-| [![png](figures_website/map_deaths-01.png)]  | [![png](figures_website/Residuals_RdBu_centered_03-01.png)] | |:---:|:---:|
+
+
+| [![png](figures_website/map_deaths-01.png)]  | [![png](figures_website/Residuals_RdBu_centered_03-01.png)] |
+|:---:|:---:|
+| Número de mortes por Covid-19 por município | Diferença residual entre valores esperados (modelo) e valores observados |

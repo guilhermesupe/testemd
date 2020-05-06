@@ -9,6 +9,7 @@ Considerando o atual cenário de pandemia de Covid-19 (Corona Virus Disease 2019
     1.[Importância dos preditores](#importancia_preditores)
     
 3. [Mapas](#mapas)
+
     1.[Resíduos](#residuos)
     2. [Casos totais] (#casos_totais)
     3. [Mortes] (#mortes)
@@ -30,7 +31,7 @@ Considerando o atual cenário de pandemia de Covid-19 (Corona Virus Disease 2019
 ## Objetivos <a name= "objetivos"></a>
 ## Preditores <a name= "preditores"></a>
 ## Importância dos preditores  <a name= "importancia_preditores"></a>
-    ###[topo](#topo) 
+   Voltar para o [topo](#topo) 
 ## Mapas  <a name= "mapas"></a>
   ## Mapa de resíduos  <a name= "residuos"></a>
   ## Mapa total de casos  <a name= "casos_totais"></a>

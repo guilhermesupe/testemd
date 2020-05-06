@@ -6,15 +6,15 @@ Considerando o atual cenário de pandemia de Covid-19 (Corona Virus Disease 2019
 1. [Objetivos](#objetivos)
 2. [Preditores](#preditores)
 
-    1.[Importância dos preditores](#importancia_preditores)
+    [Importância dos preditores](#importancia_preditores)
     
 3. [Mapas](#mapas)
 
-    1.[Resíduos](#residuos)
+    [Resíduos](#residuos)
     
-    2. [Casos totais] (#casos_totais)
+    [Casos totais](#casos_totais)
     
-    3. [Mortes] (#mortes)
+    [Mortes](#mortes)
 
 ## Casos de Covid-19 nos municípios brasileiros
 ![png](images/map_confirmed_03-01.png)

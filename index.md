@@ -11,7 +11,9 @@ Considerando o atual cenário de pandemia de Covid-19 (Corona Virus Disease 2019
 3. [Mapas](#mapas)
 
     1.[Resíduos](#residuos)
+    
     2. [Casos totais] (#casos_totais)
+    
     3. [Mortes] (#mortes)
 
 ## Casos de Covid-19 nos municípios brasileiros

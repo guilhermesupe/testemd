@@ -10,15 +10,16 @@ Considerando o atual cenário de pandemia de Covid-19 (Corona Virus Disease 2019
 
 2. [Preditores](#preditores)
 
-    2.1 [Importância dos preditores](#importancia_preditores)
-    
-3. [Mapas](#mapas)
+3. [Resultados](#resultados)
 
     3.1 [Resíduos](#residuos)
     
     3.2 [Casos totais](#casos_totais)
     
     3.3 [Mortes](#mortes)
+    
+4. [Importância dos preditores](#importancia_preditores)
+    
 
 ## Casos de Covid-19 nos municípios brasileiros
 
@@ -36,14 +37,24 @@ Considerando o atual cenário de pandemia de Covid-19 (Corona Virus Disease 2019
 ## Objetivos <a name= "objetivos"></a>
 ## Preditores <a name= "preditores"></a>
 ## Importância dos preditores  <a name= "importancia_preditores"></a>
-   Voltar para o [topo](#topo) 
-## Mapas  <a name= "mapas"></a>
+   
+## Mapas  <a name= "resultados"></a>
   ## Mapa de resíduos  <a name= "residuos"></a>
+  
+  ![png](images/Residuals_RdBu_centered_03-01.png)
+  | Diferença residual entre valores esperados (modelo) e valores observados | [topo](#topo)
+  ---
   ## Mapa total de casos  <a name= "casos_totais"></a>
+  
+  ![png](images/map_confirmed_03-01.png)
+  
+  | Mapa total de casos por município| [topo](#topo)
+  ---
+  
   ## Mapa de mortes  <a name= "mortes"></a>
+  
+   ![png](images/map_deaths-01.png)
+   
+   | Número de mortes por Covid-19 por município |[topo](#topo) 
+---  
 
-Número de mortes por Covid-19 por município
- ![png](images/map_deaths-01.png)
- ![png](images/Residuals_RdBu_centered_03-01.png) 
-
-|  | Diferença residual entre valores esperados (modelo) e valores observados |

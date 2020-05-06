@@ -20,9 +20,6 @@ Considerando o atual cenário de pandemia de Covid-19 (Corona Virus Disease 2019
     
 4. [Importância dos preditores](#importancia_preditores)
     
-
-## Casos de Covid-19 nos municípios brasileiros
-
 <!--html_preserve-->
 <!--
 

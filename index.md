@@ -31,7 +31,8 @@ Considerando o atual cenário de pandemia de Covid-19 (Corona Virus Disease 2019
   ### Mapa total de casos  <a name= "casos_totais"></a>
   ### Mapa de mortes  <a name= "mortes"></a>
 
+Número de mortes por Covid-19 por município
+ ![png](images/map_deaths-01.png)
+ ![png](images/Residuals_RdBu_centered_03-01.png) 
 
-| ![png](images/map_deaths-01.png)  | ![png](images/Residuals_RdBu_centered_03-01.png) |
-|:---:|:---:|
-| Número de mortes por Covid-19 por município | Diferença residual entre valores esperados (modelo) e valores observados |
+|  | Diferença residual entre valores esperados (modelo) e valores observados |

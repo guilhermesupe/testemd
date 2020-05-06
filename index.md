@@ -31,29 +31,29 @@ Considerando o atual cenário de pandemia de Covid-19 (Corona Virus Disease 2019
 
 <!--/html_preserve-->
 -->
-## Objetivos <a name= "objetivos"></a>
+# Objetivos <a name= "objetivos"></a>
 
 ijhguhugiyuig
 
-## Preditores <a name= "preditores"></a>
+# Preditores <a name= "preditores"></a>
 
   huhkjhkjhkj
   
-## Resultados  <a name= "resultados"></a>
+# Resultados  <a name= "resultados"></a>
 
-# Mapa de resíduos  <a name= "residuos"></a>
+## Mapa de resíduos  <a name= "residuos"></a>
   
   ![png](images/Residuals_RdBu_centered_03-01.png)
   
    Diferença residual entre valores esperados (modelo) e valores observados [topo](#topo)
 
-  # Mapa total de casos  <a name= "casos_totais"></a>
+  ## Mapa total de casos  <a name= "casos_totais"></a>
   
   ![png](images/map_confirmed_03-01.png)
   
   Mapa total de casos por município [topo](#topo)
   
-  # Mapa de mortes  <a name= "mortes"></a>
+  ## Mapa de mortes  <a name= "mortes"></a>
   
   ![png](images/map_deaths-01.png)
    

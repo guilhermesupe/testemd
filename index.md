@@ -4,7 +4,9 @@ Considerando o atual cenário de pandemia de Covid-19 (Corona Virus Disease 2019
     
 <a name = "topo"/>
 # Índice
+
 1. [Objetivos](#objetivos)
+
 2. [Preditores](#preditores)
 
     2.1 [Importância dos preditores](#importancia_preditores)

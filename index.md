@@ -23,7 +23,7 @@ Considerando o atual cenário de pandemia de Covid-19 (Corona Virus Disease 2019
 
 <!--/html_preserve-->
 -->
-## Objetivos <a name= "objtivos"></a>
+## Objetivos <a name= "objetivos"></a>
 ## Preditores <a name= "preditores"></a>
   ### Importância dos preditores  <a name= "importancia_preditores"></a>
 ## Mapas  <a name= "mapas"></a>

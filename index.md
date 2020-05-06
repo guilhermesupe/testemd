@@ -2,7 +2,6 @@
 
 Considerando o atual cenário de pandemia de Covid-19 (Corona Virus Disease 2019) e o fato de que o Brasil é um dos principais países atingidos, resolvemos fazer uma análise preditiva espaço-temporal da vulnerabilidade dos municípios brasileiros a essa nova doença. Levamos em consideração diversos preditores como: tamanho da população residente, tamanho da população urbana com mais de 60 anos, etc...
 
-{:toc}
 # Índice
 1. [Objetivos](#objetivos)
 2. [Preditores](#preditores)
@@ -28,11 +27,11 @@ Considerando o atual cenário de pandemia de Covid-19 (Corona Virus Disease 2019
 -->
 ## Objetivos <a name= "objetivos"></a>
 ## Preditores <a name= "preditores"></a>
-  ### Importância dos preditores  <a name= "importancia_preditores"></a>
+## Importância dos preditores  <a name= "importancia_preditores"></a>
 ## Mapas  <a name= "mapas"></a>
-  ### Mapa de resíduos  <a name= "residuos"></a>
-  ### Mapa total de casos  <a name= "casos_totais"></a>
-  ### Mapa de mortes  <a name= "mortes"></a>
+  ## Mapa de resíduos  <a name= "residuos"></a>
+  ## Mapa total de casos  <a name= "casos_totais"></a>
+  ## Mapa de mortes  <a name= "mortes"></a>
 
 Número de mortes por Covid-19 por município
  ![png](images/map_deaths-01.png)

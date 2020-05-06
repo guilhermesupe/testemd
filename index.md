@@ -59,3 +59,5 @@ ijhguhugiyuig
    
    Número de mortes por Covid-19 por município [topo](#topo) 
 
+# Importância dos preditores <a name = "importancia_preditores">
+

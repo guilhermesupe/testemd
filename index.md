@@ -1,8 +1,11 @@
 # Modelo espaço-temporal da difusão de SARS-CoV-2 nos municípios brasileiros
 <a name = "topo"/>
-Considerando o atual cenário de pandemia de Covid-19 (Corona Virus Disease 2019) e o fato de que o Brasil é um dos principais países atingidos, resolvemos fazer uma análise preditiva espaço-temporal da vulnerabilidade dos municípios brasileiros a essa nova doença. Levamos em consideração diversos preditores como: tamanho da população residente, tamanho da população urbana com mais de 60 anos, etc...
-    
-
+Considerando o atual cenário de pandemia de Covid-19 (Corona Virus Disease 2019) e o fato de que o Brasil é um dos principais países atingidos, resolvemos fazer uma análise preditiva espaço-temporal da vulnerabilidade dos municípios brasileiros a essa nova doença. Foram utilizados em nosso modelo os preditores mais importantes que melhor explicaram a transmissão da doença nos municípios: 
+1. tamanho da população residente,
+2. tamanho da população urbana com mais de 60 anos,
+3. número de leitos de UTI no [SUS](https://pt.wikipedia.org/wiki/Sistema_%C3%9Anico_de_Sa%C3%BAde),
+4. mortalidade por doenças endócrinas, nutricionais e metbólicas (diabetes, por exemplo),
+5. numero de veículos
 
 # Índice
 
